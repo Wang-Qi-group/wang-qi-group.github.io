@@ -1,13 +1,13 @@
 # Site settings
 title: Data Security Laboratory
 description: "at SUSTech"
-url: "https://wang-qi-group.github.io"
+url: "https://cryptosus.tech"
 
 
 
 
 # Secondary Parameters
-baseurl: "/group-homepage"
+baseurl: "/"
 header-img: img/home-bg.jpg
 headercolor: "#FFFFFF"
 # logo: /project-pages/img/logos/Project-Pages-New-Logo-Inverted.png
