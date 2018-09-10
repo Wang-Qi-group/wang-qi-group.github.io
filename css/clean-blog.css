@@ -64,6 +64,7 @@ hr.small {
 }
 .navbar-custom .nav li a {
   text-transform: uppercase;
+  background-color: rgba(255, 255, 255, 0.4);
   font-size: 15px;
   font-weight: 800;
   letter-spacing: 1px;
@@ -82,7 +83,6 @@ hr.small {
     color: rgba(255, 255, 255, 0.8);
   }
   .navbar-custom .nav li a {
-    background-color: rgba(255, 255, 255, 0.4);
     color: rgb(19, 20, 8);
     padding: 20px;
   }
