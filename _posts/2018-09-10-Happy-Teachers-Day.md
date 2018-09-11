@@ -2,9 +2,9 @@
 layout:     post
 title:      Happy Teachers Day!
 author:     Weihuang Wen
-tags: 		post
+tags: 		
 subtitle:  	2018
-category:
+category:   Post
 ---
 
 ## 学生祝语
